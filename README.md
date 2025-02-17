@@ -71,12 +71,8 @@ This utilizes a package called `concurrently` that allows you to concurrently ru
 This project was insipired by:
 
 - [create-eth-app](https://github.com/paulrberg/create-eth-app)
-- [create-react-app](https://github.com/facebook/create-react-app)
-- [create-next-app](https://github.com/zeit/next.js/tree/master/packages/create-next-app)
 
 ## Issues
-
-If you find any issues, please report them in the _[Issues](https://github.com/adriandelgg/create-ether-dapp/issues)_.
 
 Also, if you see something that could be improved, feel free to contribute!
 
